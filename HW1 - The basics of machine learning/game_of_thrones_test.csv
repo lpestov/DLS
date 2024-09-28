@@ -1,0 +1,390 @@
+S.No,name,title,male,culture,dateOfBirth,DateoFdeath,mother,father,heir,house,spouse,book1,book2,book3,book4,book5,isAliveMother,isAliveFather,isAliveHeir,isAliveSpouse,isMarried,isNoble,age,numDeadRelations,popularity
+1558,Melissa Blackwood,,0,,156.0,,,,,House Blackwood,,0,0,0,0,1,,,,,0,0,100.0,0,0.0501672240802675
+1559,Melisandre,,0,Asshai,,,,,,R'hllor,,0,1,1,1,1,,,,,0,0,,0,0.745819397993311
+1560,Merrit,,0,,,,,,,Brotherhood without banners,,0,0,1,1,0,,,,,0,0,,0,0.0100334448160535
+1561,Meryn Trant,Ser,1,,,,,,,House Trant,,1,1,1,1,1,,,,,0,1,,0,0.220735785953177
+1562,Merrett Frey,,1,Riverlands,262.0,300.0,,,,House Frey,Mariya Darry,1,1,1,1,1,,,,1.0,1,0,38.0,0,0.434782608695652
+1563,Mohor,,1,,,298.0,,,,House Bracken,,1,0,0,0,0,,,,,0,0,,0,0.0100334448160535
+1564,Missandei,,0,Naathi,288.0,,,,,House Targaryen,,0,0,1,1,1,,,,,0,0,17.0,0,0.17391304347826
+1565,Moon Boy,,1,,,,,,,House Baratheon of King's Landing,,1,1,1,1,1,,,,,0,0,,0,0.0769230769230769
+1566,Monster,,0,Free Folk,299.0,,,,,,,0,0,1,1,1,,,,,0,0,6.0,0,0.0769230769230769
+1567,Mord,,1,,,,,,,House Arryn,,1,1,1,1,1,,,,,0,0,,0,0.0468227424749163
+1568,Minisa Whent,Riverrun,0,Rivermen,,,,,,House Whent,Hoster Tully,1,1,1,0,0,,,,0.0,1,1,,0,0.0434782608695652
+1569,Mordane,Septa,0,,,298.0,,,,House Stark,,1,1,1,0,0,,,,,0,0,,0,0.103678929765886
+1570,Murenmure,Maester,1,,,,,,,,,0,0,0,1,0,,,,,0,1,,0,0.0100334448160535
+1571,Myles,Maester,1,,,,,,,House Martell,,0,0,0,1,1,,,,,0,1,,0,0.0234113712374581
+1572,Mors Martell,Sandship,0,Dornish,,,,,,House Martell,Nymeria,1,0,0,1,0,,,,1.0,1,1,,0,0.0535117056856187
+1573,Mya Stone,,0,,279.0,,,,,House Royce of the Gates of the Moon,,1,1,1,1,1,,,,,0,0,26.0,0,0.120401337792642
+1574,Myrcella Baratheon,Princess,0,,290.0,,,,,House Baratheon of King's Landing,,1,1,1,1,1,,,,,0,1,15.0,5,0.561872909698996
+1575,Nestor Royce,Keeper of the Gates of the Moon,1,,,,,,,House Royce of the Gates of the Moon,,1,1,1,1,1,,,,,0,1,,0,0.0869565217391304
+1576,Nute,Lord of Oakenshield,1,Ironborn,,,,,,House Greyjoy,,0,0,0,1,1,,,,,0,1,,0,0.0501672240802675
+1577,Nymeria Sand,,0,Dornishmen,274.0,,,,,House Martell,,0,0,1,1,1,,,,,0,0,31.0,1,0.377926421404682
+1578,Nymeria,PrincessQueen,0,Rhoynar,,,,,,House Martell,Mors Martell,1,1,0,1,1,,,,1.0,1,1,,0,0.197324414715719
+1579,Oberyn Martell,Ser,1,Dornishmen,257.0,300.0,,,,House Martell,,1,1,1,1,1,,,,,0,1,43.0,5,0.77257525083612
+1580,Obella Sand,,0,Dornishmen,287.0,,,,,House Martell,,0,0,1,1,1,,,,,0,0,18.0,1,0.103678929765886
+1581,Olenna Redwyne,Highgarden,0,,228.0,,,,,House Redwyne,Luthor Tyrell,1,1,1,1,1,,,,1.0,1,1,77.0,0,0.2876254180602
+1582,Mychel Redfort,Ser,1,Valemen,,,,,,House Redfort,Ysilla Royce,1,1,1,1,1,,,,1.0,1,1,,0,0.0702341137123745
+1583,Orwyle,Grand Maester,1,,,,,,,,,0,0,0,0,0,,,,,0,1,,0,0.254180602006688
+1584,Osha,,1,Free folk,,,,,,House Stark,,1,1,1,1,1,,,,,0,0,,0,0.250836120401337
+1585,Osfryd Kettleblack,Ser,1,,,,,,,House Kettleblack,,0,1,1,1,1,,,,,0,1,,0,0.0869565217391304
+1586,Osney Kettleblack,Ser,1,,,,,,,House Kettleblack,,0,1,1,1,1,,,,,0,1,,0,0.123745819397993
+1587,Orys Baratheon,Storm's End,1,,,38.0,,,,House Baratheon,Argella Durrandon,1,0,0,0,0,,,,1.0,1,1,,5,0.48829431438127
+1588,Osmund Kettleblack,Ser,1,,,,,,,House Kettleblack,,0,1,1,1,1,,,,,0,1,,0,0.170568561872909
+1589,Othell Yarwyck,First Builder,1,,,,,,,House Yarwyck,,1,1,1,1,1,,,,,0,1,,0,0.0635451505016722
+1590,Oswell Whent,Ser,1,Rivermen,,283.0,,,,House Whent,,1,0,1,0,1,,,,,0,1,,1,0.0802675585284281
+1591,Otto Hightower,Ser,1,,,130.0,,,,House Hightower,,0,0,1,0,0,,,,,0,1,,0,0.371237458193979
+1592,Patchface,,1,,,,,,,House Baratheon of Dragonstone,,0,1,1,1,1,,,,,0,0,,0,0.107023411371237
+1593,Paxter Redwyne,Arbor,1,,,,,,,House Redwyne,Mina Tyrell,1,1,1,1,1,,,,1.0,1,1,,0,0.511705685618729
+1594,Pearse Caron,Nightsong,1,,,,,,,House Caron,,0,0,0,0,0,,,,,0,1,,0,0.0133779264214046
+1595,Petyr Frey,,1,,281.0,300.0,,,,House Frey,Mylenda Caron,0,1,1,1,0,,,,1.0,1,0,19.0,0,0.177257525083612
+1596,Pia,,0,,,,,,,House Whent,,0,1,1,1,0,,,,,0,0,,0,0.0468227424749163
+1597,Podrick Payne,,1,,286.0,,,,,House Payne,,1,1,1,1,1,,,,,0,0,19.0,0,0.290969899665551
+1598,Preston Greenfield,Ser,1,Westermen,,299.0,,,,House Greenfield,,1,1,1,1,0,,,,,0,1,,0,0.0936454849498327
+1599,Polliver,Castellan of Harrenhal,1,,,300.0,,,,House Clegane,,0,1,1,1,0,,,,,0,1,,0,0.0769230769230769
+1600,Pyat Pree,Warlock,0,,,,,,,Undying Ones,,0,1,1,1,1,,,,,0,1,,0,0.0969899665551839
+1601,Pylos,Maester,1,,273.0,,,,,,,0,1,1,1,1,,,,,0,1,32.0,0,0.0568561872909698
+1602,Pycelle,Grand Maester,1,,216.0,300.0,,,,House Lannister,,1,1,1,1,1,,,,,0,1,84.0,0,0.638795986622073
+1603,Qhorin Halfhand,,1,,,299.0,,,,Night's Watch,,1,1,1,1,1,,,,,0,0,,0,0.210702341137123
+1604,Qotho,Bloodrider,1,Dothraki,,298299.0,,,,,,1,0,0,0,0,,,,,0,0,,0,0.0635451505016722
+1605,Quentyn Martell,Ser,1,Dornishmen,281.0,300.0,,,,House Martell,,1,1,1,1,1,,,,,0,1,19.0,0,0.551839464882943
+1606,Ralf Stonehouse,Red Jester,1,Ironborn,,,,,,House Stonehouse,,0,0,0,1,1,,,,,0,1,,0,0.0334448160535117
+1607,Ramsay Snow,Lord of the Hornwood,1,Northmen,282.0,,,,,House Bolton of the Dreadfort,Donella Hornwood,0,1,1,1,1,,,,0.0,1,1,23.0,1,0.461538461538461
+1608,Randyll Tarly,Horn Hill,1,,,,,,,House Tarly,Melessa Florent,1,1,1,1,1,,,,1.0,1,1,,0,0.618729096989966
+1609,Raymun Fossoway,Ser,1,,,,,,,House Fossoway of New Barrel,,0,0,0,0,0,,,,,0,1,,0,0.040133779264214
+1610,Raymun Darry,Darry,1,,,298.0,,,,House Darry,,1,0,1,1,0,,,,,0,1,,0,0.0769230769230769
+1611,Ravella Swann,Acorn Hall,0,,,,,,,House Swann,Theomar Smallwood,0,0,1,1,0,,,,1.0,1,1,,0,0.060200668896321
+1612,Small Paul,,1,,,299.0,,,,Night's Watch,,0,0,1,1,1,,,,,0,0,,0,0.0267558528428093
+1613,Tristifer Botley,Lordsport,1,Ironborn,,,,,,House Botley,,0,0,0,1,1,,,,,0,1,,0,0.120401337792642
+1614,Styr,Magnar of Thenn,1,Free Folk,,300.0,,,,Thenn,,0,0,1,1,1,,,,,0,1,,0,0.140468227424749
+1615,Rat Cook,,1,,,,,,,Night's Watch,,0,0,1,0,1,,,,,0,0,,0,0.0568561872909698
+1616,Prendahl na Ghezn,,1,Ghiscari,,299.0,,,,Stormcrows,,0,0,1,0,0,,,,,0,0,,0,0.040133779264214
+1617,Ulmer,,1,,,,,,,Kingswood Brotherhood,,0,0,1,1,1,,,,,0,0,,0,0.0535117056856187
+1618,Oznak zo Pahl,,1,Meereen,,299.0,,,,House of Pahl,,0,0,1,0,1,,,,,0,0,,0,0.0568561872909698
+1619,Aegon Blackfyre,,1,Valyrian,184.0,196.0,,,,House Blackfyre,,0,0,1,0,0,,,,,0,0,12.0,2,0.0836120401337792
+1620,Addam Velaryon,Ser,1,Valyrian,114.0,130.0,,,,House Velaryon,,0,0,0,0,0,,,,,0,1,16.0,0,0.107023411371237
+1621,Aegon V Targaryen,,1,,,,Dyanna Dayne,Maekar I Targaryen,Duncan Targaryen,,,0,0,0,0,0,1.0,0.0,0.0,,0,0,,7,0.695652173913043
+1622,Aemon Blackfyre,,1,Valyrian,184.0,196.0,,,,House Blackfyre,,0,0,1,0,0,,,,,0,0,12.0,2,0.0869565217391304
+1623,Aeron Greyjoy,Golden Storm,1,Ironmen,269.0,,,,,House Greyjoy,,1,1,1,1,1,,,,,0,1,36.0,4,0.45819397993311
+1624,Alfyn,,1,Free Folk,,299.0,,,,,,0,0,0,0,0,,,,,0,0,,0,0.0
+1625,Alannys Harlaw,Iron Islands,0,Ironborn,,,,,,House Greyjoy,Balon Greyjoy,1,1,0,1,1,,,,0.0,1,1,,0,0.237458193979933
+1626,Alayaya,,0,,282.0,,,,,Chataya's brothel,,0,1,1,1,1,,,,,0,0,23.0,0,0.0769230769230769
+1627,Alyn,,1,,,298.0,,,,House Stark,,1,1,1,0,1,,,,,0,0,,0,0.0735785953177257
+1628,Alliser Thorne,Ser,1,,,,,,,House Thorne,,1,1,1,1,1,,,,,0,1,,0,0.23076923076923
+1629,Alester Florent,Brightwater,1,,,300.0,,,,House Florent,Melara Crane,0,1,1,0,1,,,,1.0,1,1,,0,0.327759197324414
+1630,Alysane Mormont,,0,Northmen,273.0,,,,,House Mormont,,0,0,0,1,1,,,,,0,0,32.0,0,0.0702341137123745
+1631,Alerie Hightower,Highgarden,0,,257.0,,,,,House Hightower,Mace Tyrell,1,1,1,1,1,,,,1.0,1,1,48.0,0,0.227424749163879
+1632,Anguy,,1,,,,,,,Brotherhood without banners,,1,0,1,1,0,,,,,0,0,,0,0.130434782608695
+1633,Andrik,Lord of Southshield,1,Ironborn,,,,,,House Drumm,,0,1,1,1,1,,,,,0,1,,0,0.0434782608695652
+1634,Amory Lorch,Ser,1,,,299.0,,,,House Lorch,,1,1,1,1,1,,,,,0,1,,0,0.277591973244147
+1635,Archibald Yronwood,Ser,1,,,,,,,House Yronwood,,0,0,0,0,1,,,,,0,1,,0,0.140468227424749
+1636,Arlan of Pennytree,Ser,1,,149.0,209.0,,,,,,0,0,0,0,0,,,,,0,1,60.0,0,0.103678929765886
+1637,Areo Hotah,Sunspear,1,Norvos,257.0,,,,,House Martell,,1,1,1,1,1,,,,,0,1,48.0,0,0.25752508361204
+1638,Arwyn Oakheart,Old Oak,1,,,,,,,House Oakheart,,1,1,1,1,1,,,,,0,1,,0,0.0367892976588628
+1639,Arthur Dayne,Ser,1,Dornishmen,,283.0,,,,House Dayne,,1,1,1,1,1,,,,,0,1,,0,0.153846153846153
+1640,Arys Oakheart,Ser,1,Reach,,300.0,,,,House Oakheart,,1,1,1,1,1,,,,,0,1,,0,0.34448160535117
+1641,Ashara Dayne,,0,,,283.0,,,,House Dayne,,1,1,1,0,1,,,,,0,0,,0,0.0936454849498327
+1642,Aron Santagar,Ser,1,Dornish,,299.0,,,,House Santagar,,1,1,0,1,0,,,,,0,1,,0,0.0668896321070234
+1643,Asha Greyjoy,Black Wind,0,Ironborn,275.0,,,,,House Greyjoy,Erik Ironmaker,1,1,0,1,1,,,,1.0,1,1,30.0,0,0.709030100334448
+1644,Azor Ahai,,0,Asshai,,,,,,,Nissa Nissa,0,1,1,1,1,,,,1.0,1,0,,0,0.11705685618729
+1645,Bael the Bard,King-Beyond-the-Wall,1,Free folk,,,,,,,,0,0,0,0,0,,,,,0,1,,0,0.0
+1646,Baelor Blacktyde,Blacktyde,1,Ironborn,,300.0,,,,House Blacktyde,,0,1,1,1,0,,,,,0,1,,0,0.060200668896321
+1647,Balon Greyjoy,,1,,,,,Quellon Greyjoy,Theon Greyjoy,,,0,0,0,0,0,,0.0,1.0,,0,0,,4,0.739130434782608
+1648,Ballabar,Maester,1,,,,,,,House Redwyne,,0,1,1,1,1,,,,,0,1,,0,0.0301003344481605
+1649,Baelor I Targaryen,,1,,,,Daenaera Velaryon,Aegon III Targaryen,,,,0,0,0,0,0,1.0,0.0,,,0,0,,9,0.501672240802675
+1650,Balon Swann,Ser,1,Stormlander,,,,,,House Swann,,1,1,1,1,1,,,,,0,1,,0,0.311036789297658
+1651,Barba Bracken,,0,,155.0,,,,,House Bracken,,0,0,0,0,1,,,,,0,0,100.0,0,0.0501672240802675
+1652,Barristan Selmy,Ser,1,Westeros,236.0,,,,,House Selmy,,1,1,1,1,1,,,,,0,1,69.0,0,1.0
+1653,Barbrey Dustin,Barrowton,0,Northmen,,,,,,House Ryswell,Willam Dustin,0,0,0,1,1,,,,0.0,1,1,,0,0.163879598662207
+1654,Bellegere Otherys,,0,Braavosi,,,,,,,,0,0,0,1,0,,,,,0,0,,0,0.040133779264214
+1655,Beardless Dick,,0,,,,,,,Brotherhood Without Banners,,0,0,1,1,0,,,,,0,0,,0,0.020066889632107
+1656,Belwas,,1,Meereenese,,,,,,House Targaryen,,0,1,1,1,1,,,,,0,0,,0,0.1438127090301
+1657,Benjen Stark,First Ranger,1,Northmen,267.0,,,,,House Stark,,1,1,1,1,1,,,,,0,1,38.0,5,0.40133779264214
+1658,Bethany Bracken,,0,,156.0,178.0,,,,House Bracken,,0,0,0,0,0,,,,,0,0,22.0,0,0.0301003344481605
+1659,Beric Dondarrion,Lord of Blackhaven,1,,276.0,299.0,,,,,,1,1,1,1,1,,,,,0,1,23.0,0,0.434782608695652
+1660,Biter,,1,,,300.0,,,,Brave Companions,,0,1,1,1,0,,,,,0,0,,0,0.127090301003344
+1661,Bluetooth,,1,Ironborn,,,,,,House Greyjoy,,0,1,1,1,0,,,,,0,0,,0,0.0133779264214046
+1662,Brandon Norrey,The NorreyLord Norrey,1,Northern mountain clans,,,,,,House Norrey,,0,0,0,1,1,,,,,0,1,,0,0.0301003344481605
+1663,Bowen Marsh,Lord Steward,1,,,,,,,Night's Watch,,1,1,1,1,1,,,,,0,1,,0,0.254180602006688
+1664,Bonifer Hasty,Ser,1,,,,,,,House Hasty,,0,1,1,1,1,,,,,0,1,,0,0.0535117056856187
+1665,Bran the Builder,King of Winter,0,First Men,,,,,,House Stark,,1,1,1,1,1,,,,,0,1,,0,0.0903010033444816
+1666,Brynden Rivers,Ser,1,Valyrian,175.0,252.0,,,,House Targaryen,,0,0,0,1,1,,,,,0,1,77.0,4,0.605351170568561
+1667,Brynden Tully,Ser,1,Rivermen,242.0,,,,,House Tully,,1,1,1,1,1,,,,,0,1,63.0,5,0.341137123745819
+1668,Caleotte,Maester,1,,,,,,,House Martell,,1,1,1,1,1,,,,,0,1,,0,0.040133779264214
+1669,Cassella Vaith,Vaith,0,Dornishmen,,,,,,House Vaith,,0,0,0,0,0,,,,,0,1,,0,0.0100334448160535
+1670,Cellador,Septon,1,,,,,,,Night's Watch,,1,1,1,1,1,,,,,0,0,,0,0.0334448160535117
+1671,Chella,,0,Vale mountain clans,,,,,,Black Ears,,1,1,1,0,0,,,,,0,0,,0,0.0367892976588628
+1672,Cletus Yronwood,Ser,1,,,300.0,,,,House Yronwood,,0,0,0,1,1,,,,,0,1,,0,0.0702341137123745
+1673,Colemon,Maester,1,,,,,,,House Arryn,,1,1,1,1,1,,,,,0,1,,0,0.0668896321070234
+1674,Corlys Velaryon,Lord of the Tides,1,Valyrian,53.0,132.0,,,,House Velaryon,Rhaenys Targaryen,0,0,0,0,0,,,,0.0,1,1,79.0,0,0.525083612040133
+1675,Criston Cole,Ser,1,Stormlands,82.0,130.0,,,,House Cole,,0,0,0,1,0,,,,,0,1,48.0,0,0.505016722408026
+1676,Daemon I Blackfyre,Ser,1,Valyrian,170.0,196.0,,,,House Blackfyre,Rohanne of Tyrosh,0,0,0,0,0,,,,1.0,1,1,26.0,0,0.0
+1677,Daemon Targaryen,Commander of the City Watch,1,Valyrian,81.0,130.0,,,,House Targaryen,Rhea Royce,0,0,0,0,0,,,,0.0,1,1,49.0,5,0.668896321070234
+1678,Daenerys Targaryen,Andals,0,Valyrian,284.0,,,,,House Targaryen,Drogo,1,1,1,1,1,,,,0.0,1,1,21.0,15,1.0
+1679,Danny Flint,,0,Northmen,,,,,,House Flint,,0,0,1,0,1,,,,,0,0,,0,0.0234113712374581
+1680,Daven Lannister,Ser,1,Westerman,273.0,,,,,House Lannister,,1,1,1,1,1,,,,,0,1,32.0,0,0.207357859531772
+1681,Dick Crabb,,1,,,300.0,,,,House Crabb,,0,0,0,1,0,,,,,0,0,,0,0.0702341137123745
+1682,Donal Noye,,1,,244.0,300.0,,,,House Baratheon,,1,1,1,1,1,,,,,0,0,56.0,0,0.140468227424749
+1683,Domeric Bolton,,1,Northmen,279.0,297.0,,,,House Bolton,,0,1,0,1,1,,,,,0,0,18.0,0,0.0903010033444816
+1684,Davos Seaworth,Ser,1,Westeros,260.0,,,,,House Seaworth,Marya Seaworth,0,1,1,1,1,,,,1.0,1,1,45.0,1,0.969899665551839
+1685,Doreah,,0,Lysene,278279.0,299.0,,,,House Targaryen,,1,1,0,0,1,,,,,0,0,-277980.0,0,0.110367892976588
+1686,Dorea Sand,,0,Dornishmen,291.0,,,,,House Martell,,0,0,0,1,1,,,,,0,0,14.0,1,0.103678929765886
+1687,Dywen,,1,,,,,,,Night's Watch,,1,1,1,1,1,,,,,0,0,,0,0.0936454849498327
+1688,Eddard Karstark,,1,Northmen,,298.0,,,,House Karstark,,1,1,1,1,1,,,,,0,0,,0,0.0735785953177257
+1689,Eddard Stark,Winterfell,1,Northmen,263.0,299.0,,,,House Stark,Catelyn Tully,1,1,1,1,1,,,,1.0,1,1,36.0,6,1.0
+1690,Elia Sand,,0,Dornishmen,285.0,,,,,House Martell,,0,0,1,1,1,,,,,0,0,20.0,1,0.11705685618729
+1691,Edmure Tully,Ser,1,Rivermen,267.0,,,,,House Tully,Roslin Frey,1,1,1,1,1,,,,1.0,1,1,38.0,8,0.655518394648829
+1692,Elia Martell,Princess,0,,256.0,283.0,,,,,Rhaegar Targaryen,1,1,1,1,1,,,,0.0,1,1,27.0,7,0.441471571906354
+1693,Emmon Cuy,Ser,1,,,299.0,,,,House Cuy,,0,1,0,0,0,,,,,0,1,,0,0.0367892976588628
+1694,Eleyna Westerling,,0,,287.0,,,,,House Westerling,,0,0,1,1,0,,,,,0,0,18.0,0,0.0468227424749163
+1695,Falena Stokeworth,Harrenhal,1,,125.0,,,,,House Stokeworth,Lucas Lothston,0,0,0,0,0,,,,1.0,1,1,100.0,0,0.0234113712374581
+1696,Falia Flowers,,0,,281.0,,,,,House Hewett,,0,0,0,1,1,,,,,0,0,24.0,0,0.0267558528428093
+1697,Eustace Osgrey,Knight,1,,,,,,,House Osgrey,Rohanne Webber,0,0,0,0,0,,,,0.0,1,1,,0,0.147157190635451
+1698,Farlen,,1,,,299.0,,,,House Stark,,1,1,1,0,1,,,,,0,0,,0,0.0568561872909698
+1699,Falyse Stokeworth,,0,,265.0,300.0,,,,House Stokeworth,Balman Byrch,0,1,1,1,1,,,,0.0,1,0,35.0,1,0.100334448160535
+1700,Galazza Galare,Green Grace,0,Ghiscari,217.0,,,,,Graces,,0,0,0,0,1,,,,,0,1,88.0,0,0.0903010033444816
+1701,Emmond,,1,Ironborn,,,,,,Drowned men,,0,0,0,1,0,,,,,0,0,,0,0.0100334448160535
+1702,Garth Hightower,Ser,0,,,,,,,House Hightower,,0,0,0,1,0,,,,,0,1,,0,0.0501672240802675
+1703,Gared,,1,,231.0,297.0,,,,Night's Watch,,1,1,0,0,0,,,,,0,0,66.0,0,0.0936454849498327
+1704,Genna Lannister,Lady,0,,245.0,,,,,,Emmon Frey,1,1,1,1,1,,,,1.0,1,1,60.0,0,0.217391304347826
+1705,Garlan Tyrell,Ser,1,,277.0,,,,,House Tyrell of Brightwater Keep,Leonette Fossoway,1,1,1,1,1,,,,1.0,1,1,28.0,0,0.327759197324414
+1706,Gerion Lannister,,1,,255.0,291.0,,,,House Lannister,,1,1,1,1,1,,,,,0,0,36.0,0,0.140468227424749
+1707,Gevin Harlaw,,0,Ironborn,,299.0,,,,House Harlaw,,0,1,1,0,0,,,,,0,0,,0,0.0167224080267558
+1708,Gerold Dayne,Ser,1,Dorne,270.0,,,,,House Dayne of High Hermitage,,0,0,0,1,1,,,,,0,1,35.0,0,0.107023411371237
+1709,Godry Farring,Ser,1,,,,,,,House Farring,,0,0,0,1,1,,,,,0,1,,0,0.0635451505016722
+1710,Gorold Goodbrother,Lord of Hammerhorn,1,Ironborn,,,,,,House Goodbrother,,0,1,1,1,1,,,,,0,1,,0,0.0802675585284281
+1711,Grenn,,1,Westeros,281.0,,,,,Night's Watch,,1,1,1,1,1,,,,,0,0,24.0,0,0.204013377926421
+1712,Grey Worm,,1,,,,,,,Unsullied,,0,0,1,1,1,,,,,0,0,,0,0.140468227424749
+1713,Greenbeard,,1,Tyroshi,,,,,,Brotherhood without banners,,0,0,0,0,0,,,,,0,0,,0,0.0367892976588628
+1714,Groleo,[1],0,Pentoshi,,300.0,,,,House Targaryen,,0,0,1,1,1,,,,,0,1,,0,0.110367892976588
+1715,Grunt,,1,Northmen,,,,,,House Bolton,,0,0,0,0,1,,,,,0,0,,0,0.0267558528428093
+1716,Gregor Clegane,Ser,1,,265.0,300.0,,,,House Clegane,,1,1,1,1,1,,,,,0,1,35.0,1,0.836120401337792
+1717,Gylbert Farwynd,Lonely Light,1,Ironborn,,,,,,House Farwynd of the Lonely Light,,0,0,1,1,1,,,,,0,1,,0,0.040133779264214
+1718,Guyard Morrigen,Ser,1,,278.0,299.0,,,,House Morrigen,,0,1,0,0,1,,,,,0,1,21.0,0,0.0635451505016722
+1719,Hallyne,LordWisdom,1,,,,,,,Alchemists' Guild,,0,1,1,1,0,,,,,0,1,,0,0.0869565217391304
+1720,Haggo,Bloodrider,1,Dothraki,,298299.0,,,,,,1,0,0,0,0,,,,,0,0,,0,0.0334448160535117
+1721,Hazzea,,0,Ghiscari,295.0,300.0,,,,,,0,0,0,0,1,,,,,0,0,5.0,0,0.0434782608695652
+1722,Hizdahr zo Loraq,,1,Ghiscari,,,,,,,,0,0,0,0,0,,,,,0,0,,0,0.444816053511705
+1723,Harma,,0,Wildlings,,300.0,,,,,,0,1,1,0,1,,,,,0,0,,0,0.0535117056856187
+1724,Harry Strickland,Captain-General,1,,,,,,,House Strickland,,0,0,0,0,1,,,,,0,1,,0,0.0769230769230769
+1725,Harys Swyft,Knight,1,,,,,,,House Swyft,,1,1,1,1,1,,,,,0,1,,1,0.451505016722408
+1726,Harwin,,0,Northmen,271.0,,,,,House Stark,,1,1,1,1,1,,,,,0,0,34.0,0,0.130434782608695
+1727,Hobb,,1,,,,,,,Night's Watch,,1,1,1,1,1,,,,,0,0,,0,0.0434782608695652
+1728,High Sparrow,High Septon,1,,,,,,,Faith of the Seven,,0,0,0,1,1,,,,,0,1,,0,0.167224080267558
+1729,Hot Pie,,0,,,,,,,,,0,1,1,1,0,,,,,0,0,,0,0.183946488294314
+1730,Howland Reed,Greywater Watch,1,Crannogmen,260.0,,,,,House Reed,Jyana,1,1,1,1,1,,,,1.0,1,1,45.0,0,0.177257525083612
+1731,Holly,,1,Free Folk,283.0,300.0,,,,,,0,0,0,0,1,,,,,0,0,17.0,0,0.0568561872909698
+1732,Hugh,Ser,1,Valemen,,298.0,,,,House Arryn,,1,0,0,0,0,,,,,0,1,,0,0.0635451505016722
+1733,Hyle Hunt,Ser,0,,,,,,,House Hunt,,0,0,0,1,0,,,,,0,1,,0,0.103678929765886
+1734,Hoster Tully,Lord Paramount of the Trident,1,Rivermen,237.0,299.0,,,,House Tully,Minisa Whent,1,1,1,1,1,,,,1.0,1,1,62.0,6,0.331103678929765
+1735,Humfrey Hewett,Oakenshield,1,,,,,,,House Hewett,,0,0,0,1,1,,,,,0,1,,0,0.0301003344481605
+1736,Ilyn Payne,Ser,1,Westeros,,,,,,House Payne,,1,1,1,1,1,,,,,0,1,,0,0.224080267558528
+1737,Illyrio Mopatis,Magister,1,Pentoshi,,,,,,House Targaryen,Cousin to the Prince of Pentos,1,1,1,1,1,,,,1.0,1,1,,0,0.394648829431438
+1738,Irri,,0,Dothraki,283.0,,,,,House Targaryen,,1,1,1,1,1,,,,,0,0,22.0,0,0.193979933110367
+1739,Imry Florent,Ser,1,,,299.0,,,,House Florent,,0,1,1,1,0,,,,,0,1,,0,0.183946488294314
+1740,Jack-Be-Lucky,,1,,,,,,,Brotherhood without banners,,0,0,1,1,0,,,,,0,0,,0,0.0267558528428093
+1741,Jacelyn Bywater,Ser,1,,,299.0,,,,House Bywater,,0,1,1,1,0,,,,,0,1,,0,0.130434782608695
+1742,Jaime Lannister,Ser,1,Westerlands,266.0,,,,,House Lannister,,1,1,1,1,1,,,,,0,1,39.0,7,1.0
+1743,Jason Mallister,Seagard,1,Riverlands,,,,,,House Mallister,,1,1,1,1,1,,,,,0,1,,0,0.127090301003344
+1744,Jeyne Poole,,0,Northmen,,,,,,House Poole,Ramsay Bolton,1,1,1,1,1,,,,1.0,1,0,,1,0.384615384615384
+1745,Jon Arryn,Eyrie,1,Valemen,217.0,298.0,,,,House Arryn,Jeyne Royce,1,1,1,1,1,,,,1.0,1,1,81.0,5,0.836120401337792
+1746,Jon Fossoway,Knight,1,Reach,,,,,,House Fossoway of New Barrel,Janna Tyrell,0,1,0,0,0,,,,1.0,1,1,,0,0.187290969899665
+1747,Jonos Bracken,Stone Hedge,1,,,,,,,House Bracken,,1,1,1,1,1,,,,,0,1,,0,0.190635451505016
+1748,Justin Massey,Ser,1,,,,,,,House Massey,,0,0,0,1,1,,,,,0,1,,0,0.0802675585284281
+1749,Kedry,Maester,1,,,300.0,,,,,,0,0,0,1,1,,,,,0,1,,0,0.0301003344481605
+1750,Jon Snow,Lord Commander of the Night's Watch,1,Northmen,283.0,,,,,House Stark,,1,1,1,1,1,,,,,0,1,22.0,5,1.0
+1751,Joss Stilwood,,1,,,,,,,House Clegane,,1,1,0,1,0,,,,,0,0,,0,0.0167224080267558
+1752,Kevan Lannister,Ser,1,,244.0,300.0,,,,House Lannister,Dorna Swyft,1,1,1,1,1,,,,1.0,1,1,56.0,4,0.869565217391304
+1753,Lady of the Leaves,Lady of the Leaves,0,,,,,,,,,0,0,1,1,0,,,,,0,1,,0,0.020066889632107
+1754,Lharys,,1,,,298.0,,,,House Bracken,,1,0,0,0,0,,,,,0,0,,0,0.0167224080267558
+1755,Leyton Hightower,Hightower,1,,,,,,,House Hightower,Rhea Florent,1,1,1,1,1,,,,1.0,1,1,,0,0.150501672240802
+1756,Larys Strong,Lord of Harrenhal,1,,91.0,,,,,House Strong,,0,0,0,0,0,,,,,0,1,100.0,0,0.297658862876254
+1757,Lomys,Maester,1,,,,,,,,,1,1,1,1,1,,,,,0,1,,0,0.0234113712374581
+1758,Lewyn Martell,Ser,1,Dornish,,283.0,,,,House Martell,,1,0,1,1,1,,,,,0,1,,2,0.147157190635451
+1759,Lothar Frey,Twins,1,Rivermen,264.0,,,,,House Frey,Leonella Lefford,1,1,1,1,1,,,,1.0,1,1,41.0,1,0.17391304347826
+1760,Lothor Brune,Ser,1,,,,,,,House Brune of Brownhollow,,1,1,1,1,1,,,,,0,1,,0,0.137123745819397
+1761,Lysa Arryn,Lady of the Vale,0,,266.0,300.0,,,,House Tully,Jon Arryn,0,0,0,0,0,,,,0.0,1,1,34.0,5,0.0
+1762,Maege Mormont,Lady of Bear Island,0,Northmen,239.0,,,,,House Mormont,,1,1,1,1,1,,,,,0,1,66.0,1,0.137123745819397
+1763,Mad Huntsman,,1,,,,,,,Brotherhood without banners,,0,0,1,1,0,,,,,0,0,,0,0.0367892976588628
+1764,Mance Rayder,,1,Free folk,,,,,,,,0,0,0,0,0,,,,,0,0,,0,0.709030100334448
+1765,Mark Mullendore,Ser,1,,,,,,,House Mullendore,,0,1,1,1,1,,,,,0,1,,0,0.0501672240802675
+1766,Mark Ryswell,Ser,0,Northmen,,283.0,,,,House Ryswell,,1,0,0,0,0,,,,,0,1,,0,0.020066889632107
+1767,Marlon Manderly,Ser,1,,,,,,,House Manderly,,0,0,0,1,1,,,,,0,1,,0,0.0434782608695652
+1768,Maron Greyjoy,,1,Ironborn,275.0,289.0,,,,House Greyjoy,,1,1,1,1,1,,,,,0,0,14.0,4,0.140468227424749
+1769,Martyn Cassel,,0,Northmen,,284.0,,,,House Cassel,,1,1,0,0,0,,,,,0,0,,0,0.0334448160535117
+1770,Marq Piper,Ser,1,Rivermen,,,,,,House Piper,,1,1,1,1,1,,,,,0,1,,0,0.140468227424749
+1771,Mathis Rowan,Goldengrove,1,Reach,,,,,,House Rowan,Bethany Redwyne,1,1,1,1,1,,,,1.0,1,1,,0,0.364548494983277
+1772,Meribald,Septon,1,,247.0,,,,,Faith of the Seven,,0,0,0,1,0,,,,,0,0,58.0,0,0.103678929765886
+1773,Mirri Maz Duur,Godswife,0,Lhazareen,257.0,299.0,,,,,,1,1,1,1,1,,,,,0,1,42.0,0,0.1438127090301
+1774,Mikken,,1,Northmen,,299.0,,,,House Stark,,1,1,1,1,1,,,,,0,0,,0,0.0969899665551839
+1775,Morros Slynt,Lord,1,,,,,,,House Slynt,,0,1,1,0,0,,,,,0,1,,0,0.0434782608695652
+1776,Myranda Royce,,0,,279.0,,,,,House Royce of the Gates of the Moon,,0,1,1,1,1,,,,,0,0,26.0,0,0.0434782608695652
+1777,Nettles,,0,,113.0,,,,,Blacks,,0,0,0,0,0,,,,,0,0,100.0,0,0.0635451505016722
+1778,Notch,,0,,,,,,,Brotherhood without Banners,,0,0,1,1,0,,,,,0,0,,0,0.0133779264214046
+1779,Obara Sand,,0,Dornish,271.0,,,,,House Martell,,0,0,1,1,1,,,,,0,0,34.0,1,0.140468227424749
+1780,Ulf the White,Ser,1,,,130.0,,,,Blacks,,0,0,0,0,0,,,,,0,1,,0,0.060200668896321
+1781,Pypar,,1,,,,,,,Night's Watch,,1,1,1,1,1,,,,,0,0,,0,0.113712374581939
+1782,Roose Bolton,Dreadfort,1,Northmen,260.0,,,,,House Bolton,Bethany Ryswell,1,1,1,1,1,,,,1.0,1,1,45.0,1,0.979933110367893
+1783,Shireen Baratheon,Princess,0,,289.0,,,,,House Baratheon of Dragonstone,,1,1,1,1,1,,,,,0,1,16.0,4,0.23076923076923
+1784,Smiling Knight,,1,,,,,,,Kingswood Brotherhood,,0,0,1,1,0,,,,,0,0,,0,0.040133779264214
+1785,Renly Baratheon,Lord Paramount of the Stormlands,1,Stormlands,277.0,299.0,,,,House Baratheon,Margaery Tyrell,1,1,1,1,1,,,,1.0,1,1,22.0,2,1.0
+1786,Theon Greyjoy,green lands,1,Ironmen,278.0,,,,,House Greyjoy,,1,1,1,1,1,,,,,0,1,27.0,4,1.0
+1787,Robyn Rhysling,Ser,1,,,,,,,House Rhysling,,0,0,0,0,0,,,,,0,1,,0,0.0234113712374581
+1788,Rodrik Harlaw,Harlaw,1,Ironborn,,,,,,House Harlaw,,0,1,1,1,1,,,,,0,1,,0,0.160535117056856
+1789,Wendamyr,Maester,1,,,,,,,House Greyjoy,,0,1,1,1,0,,,,,0,1,,0,0.020066889632107
+1790,Varamyr,,1,Free Folk,,300.0,,,,,,0,0,1,0,1,,,,,0,0,,0,0.227424749163879
+1791,Robin Potter,Ser,1,,,,,,,House Potter,,0,0,0,1,0,,,,,0,1,,0,0.020066889632107
+1792,Richard Horpe,Ser,1,,,,,,,House Horpe,,0,0,0,1,1,,,,,0,1,,0,0.0635451505016722
+1793,Sansa Stark,Princess,0,Northmen,286.0,,,,,House Stark,Tyrion Lannister,1,1,1,1,1,,,,1.0,1,1,19.0,10,1.0
+1794,Vargo Hoat,Lord of Harrenhal,1,Qohor,,300.0,,,,Brave Companions,,1,1,1,1,0,,,,,0,1,,0,0.210702341137123
+1795,Jaqen H'ghar,,1,,,,,,,Faceless Men,,0,0,0,0,0,,,,,0,0,,0,0.20066889632107
+1796,Robert Arryn,Eyrie,1,Valemen,292.0,,,,,House Arryn,,1,1,1,1,1,,,,,0,1,13.0,0,0.321070234113712
+1797,Rakharo,Bloodrider,1,Dothraki,,,,,,House Targaryen,,1,1,1,1,1,,,,,0,0,,0,0.183946488294314
+1798,Rhaella Targaryen,PrincessQueenDowager Queen,1,Valyrian,245.0,284.0,,,,House Targaryen,Aerys II Targaryen,1,0,1,1,1,,,,0.0,1,1,39.0,8,0.321070234113712
+1799,Tywin Lannister,Casterly Rock,1,,242.0,300.0,,,,House Lannister,Joanna Lannister,1,1,1,1,1,,,,0.0,1,1,58.0,5,1.0
+1800,Shagga,,1,Vale mountain clans,,,,,,Stone Crows,,1,1,1,1,1,,,,,0,0,,0,0.0735785953177257
+1801,Wyman Manderly,Lord of White Harbor,1,,239.0,,,,,House Manderly,,1,1,1,1,1,,,,,0,1,66.0,0,0.354515050167224
+1802,Yellow Dick,,1,Westeros,,300.0,,,,House Bolton,,0,0,0,0,1,,,,,0,0,,0,0.0434782608695652
+1803,Yoren,,0,Westeros,,299.0,,,,Night's Watch,,1,1,1,1,0,,,,,0,0,,0,0.267558528428093
+1804,Watty,,0,,,,,,,Brotherhood without banners,,0,0,1,1,0,,,,,0,0,,0,0.0133779264214046
+1805,Skahaz mo Kandaq,,0,Ghiscari,,,,,,House of Kandaq,,0,0,0,0,1,,,,,0,0,,0,0.197324414715719
+1806,Wylis Manderly,Ser,1,,252.0,,,,,House Manderly,,1,1,1,1,1,,,,,0,1,53.0,0,0.157190635451505
+1807,Theo Wull,,1,Northern mountain clans,,283.0,,,,House Wull,,1,0,1,0,0,,,,,0,0,,0,0.020066889632107
+1808,Wylla Manderly,,0,,284.0,,,,,House Manderly,,0,0,0,1,1,,,,,0,0,21.0,0,0.0702341137123745
+1809,Willas Tyrell,,1,,270.0,,,,,House Tyrell,,1,1,1,1,1,,,,,0,0,35.0,0,0.290969899665551
+1810,Wendel Manderly,Ser,1,,254.0,299.0,,,,House Manderly,,1,1,1,1,1,,,,,0,1,45.0,0,0.133779264214046
+1811,Simon Toyne,,0,,,281.0,,,,House Toyne,,1,1,1,1,0,,,,,0,0,,0,0.0367892976588628
+1812,Steffon Baratheon,Storm's End,1,,246.0,278.0,,,,House Baratheon,Cassana Estermont,0,1,1,0,1,,,,0.0,1,1,32.0,2,0.371237458193979
+1813,Shagwell,,1,,,300.0,,,,Brave Companions,,0,1,1,1,0,,,,,0,0,,0,0.0836120401337792
+1814,Rickard Karstark,Karhold,1,Northmen,,299.0,,,,House Karstark,,1,1,1,1,1,,,,,0,1,,1,0.23076923076923
+1815,Senelle,,1,,,300.0,,,,House Lannister,,0,0,0,1,0,,,,,0,0,,0,0.0334448160535117
+1816,Shiera Seastar,,0,Westeros,178.0,,,,,House Targaryen,,0,0,0,0,1,,,,,0,0,100.0,4,0.0434782608695652
+1817,Reznak mo Reznak,Seneschal,1,Ghiscari,,,,,,House of Reznak,,0,0,0,0,1,,,,,0,1,,0,0.0802675585284281
+1818,Ronnet Connington,Ser,1,,274.0,,,,,House Connington,,0,1,1,1,1,,,,,0,1,31.0,0,0.113712374581939
+1819,Tytos Blackwood,Raventree Hall,1,,,,,,,House Blackwood,,1,1,1,1,1,,,,,0,1,,0,0.220735785953177
+1820,Syrio Forel,,0,Braavosi,,298.0,,,,House Stark,,1,1,1,1,1,,,,,0,0,,0,0.120401337792642
+1821,Rodrik Cassel,Ser,1,Northmen,,299.0,,,,House Cassel,,1,1,1,1,1,,,,,0,1,,1,0.397993311036789
+1822,Stevron Frey,Ser,1,,233.0,299.0,,,,House Frey,Corenna Swann,1,1,1,1,1,,,,1.0,1,1,66.0,0,0.17391304347826
+1823,Steely Pate,,1,,,,,,,,,0,0,0,0,0,,,,,0,0,,0,0.0133779264214046
+1824,Victaria Tyrell,,0,,,,,,,House Tyrell,Jon Bulwer,0,0,1,1,0,,,,1.0,1,0,,0,0.133779264214046
+1825,Jon Connington,Lord of Griffin's Roost,1,Stormlands,263.0,,,,,House Connington,,0,0,1,1,1,,,,,0,1,42.0,0,0.719063545150501
+1826,Rorge,,1,,,300.0,,,,Brave Companions,,0,1,1,1,0,,,,,0,0,,0,0.167224080267558
+1827,Rickard Stark,Winterfell,1,Northmen,230.0,282.0,,,,House Stark,Lyarra Stark,1,1,1,0,1,,,,1.0,1,1,52.0,5,0.270903010033444
+1828,Visenya Targaryen,QueenDowager Queen,0,Valyrian,-28.0,44.0,,,,House Targaryen,Aegon I Targaryen,1,1,1,1,1,,,,0.0,1,1,72.0,5,0.277591973244147
+1829,Petyr Baelish,Master of coin,1,Valemen,268.0,,,,,House Baelish,Lysa Arryn,1,1,1,1,1,,,,0.0,1,1,37.0,5,1.0
+1830,Viserys Targaryen,Lord of the Seven Kingdoms,1,Valyrian,276.0,298.0,,,,House Targaryen,,1,1,1,1,1,,,,,0,1,22.0,11,0.622073578595317
+1831,Varys,Master of Whisperers,1,,,,,,,,,1,1,1,1,1,,,,,0,1,,0,0.899665551839464
+1832,Stygg,,0,,,,,,,House Greyjoy,,0,1,1,0,0,,,,,0,0,,0,0.0367892976588628
+1833,Salladhor Saan,Prince of the Narrow Sea,1,Lysene,,,,,,House Baratheon of Dragonstone,,0,1,1,1,1,,,,,0,1,,0,0.187290969899665
+1834,Victarion Greyjoy,Lord Captain of the Iron Fleet,1,Ironborn,268.0,,,,,House Greyjoy,,1,1,1,1,1,,,,,0,1,37.0,4,0.705685618729097
+1835,Timeon,,1,Dornish,,300.0,,,,Brave Companions,,0,0,1,1,0,,,,,0,0,,0,0.0568561872909698
+1836,Tysha,,1,,271.0,,,,,,Tyrion Lannister,1,1,1,0,1,,,,1.0,1,0,34.0,1,0.130434782608695
+1837,Shae,,0,,280.0,300.0,,,,,,1,1,1,1,1,,,,,0,0,20.0,0,0.290969899665551
+1838,Spotted Cat,,1,Ghiscari,,,,,,,,0,0,0,0,1,,,,,0,0,,0,0.0501672240802675
+1839,Tormund,Ruddy Hall,1,Free Folk,,,,,,,,0,0,1,1,1,,,,,0,1,,0,0.214046822742474
+1840,Rodrik Greyjoy,,1,Ironborn,274.0,289.0,,,,House Greyjoy,,1,1,1,1,1,,,,,0,0,15.0,4,0.153846153846153
+1841,Tyrion Lannister,Hand of the King,1,,273.0,,,,,House Lannister,Tysha,1,1,1,1,1,,,,1.0,1,1,32.0,12,1.0
+1842,Josmyn Peckledon,,1,,284.0,,,,,House Peckledon,,0,1,1,1,1,,,,,0,0,21.0,0,0.0501672240802675
+1843,Trystane Martell,Prince,1,Dornish,287.0,,,,,House Martell,,1,1,1,1,1,,,,,0,1,18.0,6,0.150501672240802
+1844,Rolland Storm,Ser,1,,,,,,,House Caron,,0,0,1,1,1,,,,,0,1,,0,0.0702341137123745
+1845,Willam Dustin,Barrowton,1,Northmen,,283.0,,,,House Dustin,Barbrey Ryswell,1,0,0,1,1,,,,1.0,1,1,,0,0.0635451505016722
+1846,Torrhen Karstark,,1,Northmen,,298.0,,,,House Karstark,,1,1,1,1,1,,,,,0,0,,1,0.0769230769230769
+1847,Three Toes,,1,,,,,,,Brave Companions,,0,0,1,1,0,,,,,0,0,,0,0.0133779264214046
+1848,Ygritte,,1,Wildling,280.0,299.0,,,,Mance Rayder,,0,1,1,1,1,,,,,0,0,19.0,0,0.244147157190635
+1849,Tyland Lannister,Ser,1,,,133.0,,,,House Lannister,,0,0,0,0,0,,,,,0,1,,0,0.354515050167224
+1850,Thoren Smallwood,First Ranger,1,,,299.0,,,,Night's Watch,,0,1,1,0,0,,,,,0,1,,0,0.0869565217391304
+1851,Rolph Spicer,Ser,0,,,,,,,House Spicer,,0,0,1,1,0,,,,,0,1,,0,0.060200668896321
+1852,Selyse Florent,LadyQueen,0,,,,,,,House Florent,Stannis Baratheon,1,1,1,1,1,,,,1.0,1,1,,0,0.397993311036789
+1853,Tyrion Tanner,,1,,300.0,,,,,House Stokeworth,,0,0,0,1,1,,,,,0,0,5.0,0,0.0501672240802675
+1854,Sandor Clegane,,1,,270.0,300.0,,,,House Clegane,,1,1,1,1,1,,,,,0,0,30.0,1,0.695652173913043
+1855,Ulf son of Umar,,1,Vale mountain clans,,298.0,,,,Moon Brothers,,1,0,0,0,0,,,,,0,0,,0,0.0234113712374581
+1856,Urswyck,,1,,,,,,,Brave Companions,,0,0,1,1,0,,,,,0,0,,0,0.0301003344481605
+1857,Clydas,,1,,240.0,,,,,Night's Watch,,1,1,1,1,1,,,,,0,0,65.0,0,0.0635451505016722
+1858,Damion Lannister,SerCastellan of Casterly Rock,1,,,,,,,House Lannister,Shiera Crakehall,0,0,1,1,1,,,,1.0,1,1,,0,0.0836120401337792
+1859,Kraznys mo Nakloz,,1,Astapor,,299.0,,,,Good Masters,,0,0,1,0,1,,,,,0,0,,0,0.0769230769230769
+1860,Dacey Mormont,,0,Northmen,252.0,299.0,,,,House Mormont,,1,1,1,1,1,,,,,0,0,47.0,0,0.0869565217391304
+1861,Jojen Reed,,1,Crannogmen,286.0,,,,,House Reed,,0,1,1,1,1,,,,,0,0,19.0,0,0.290969899665551
+1862,Lyonel Baratheon,Ser,1,,,239.0,,,,House Baratheon,,0,0,0,0,0,,,,,0,1,,0,0.0568561872909698
+1863,Khorane Sathmantes,,0,Lyseni,,,,,,,,0,0,1,0,0,,,,,0,0,,0,0.0100334448160535
+1864,Vardis Egen,Ser,1,Valemen,249.0,298.0,,,,House Egen,,1,1,1,0,0,,,,,0,1,49.0,0,0.0903010033444816
+1865,Tya Lannister,,1,,,,,,,House Baratheon,Gowen Baratheon,1,0,0,0,0,,,,1.0,1,0,,0,0.0167224080267558
+1866,Vyman,Maester,0,,,,,,,,,1,1,1,1,1,,,,,0,1,,0,0.040133779264214
+1867,Orton Merryweather,Longtable,1,Reachmen,,,,,,House Merryweather,Taena of Myr,0,0,1,1,1,,,,1.0,1,1,,0,0.374581939799331
+1868,Jeor Mormont,Bear Island,1,Northmen,230.0,299.0,,,,House Mormont,,1,1,1,1,1,,,,,0,1,69.0,0,0.618729096989966
+1869,Rhaego,,0,,298299.0,298.0,,,,House Targaryen,,1,1,1,1,0,,,,,0,0,-298001.0,6,0.167224080267558
+1870,Samwell Stone,Ser,1,,,,,,,House Royce,,0,0,0,1,0,,,,,0,1,,0,0.0133779264214046
+1871,Mors Umber,Castellan,1,Northmen,235.0,,,,,House Umber,,0,1,1,1,1,,,,,0,1,70.0,0,0.147157190635451
+1872,Rhaegar Frey,,1,,269.0,300.0,,,,House Frey,Jeyne Beesbury,0,1,1,1,1,,,,1.0,1,0,31.0,0,0.133779264214046
+1873,Parmen Crane,Ser,1,,,,,,,House Crane,,0,1,1,0,0,,,,,0,1,,0,0.040133779264214
+1874,Qyburn,Master of whisperers,1,,,,,,,House Lannister,,0,1,1,1,1,,,,,0,1,,0,0.535117056856187
+1875,Weese,,1,,,299.0,,,,House Whent,,0,1,1,1,0,,,,,0,0,,0,0.040133779264214
+1876,Qarl the Maid,,1,Ironborn,,,,,,,,0,1,1,1,1,,,,,0,0,,0,0.0668896321070234
+1877,Rickon Stark,Prince of WinterfellHeir to Winterfell,1,Northmen,295.0,,,,,House Stark,,1,1,1,1,1,,,,,0,1,10.0,8,0.551839464882943
+1878,Roslin Frey,,1,Rivermen,282.0,,,,,House Frey,Edmure Tully,0,1,1,1,1,,,,1.0,1,0,23.0,6,0.217391304347826
+1879,Robar Royce,Ser,1,Valemen,277.0,299.0,,,,House Royce,,1,1,1,1,0,,,,,0,1,22.0,1,0.0969899665551839
+1880,Robett Glover,,1,Northmen,,,,,,House Glover,Sybelle Glover,1,1,1,1,1,,,,1.0,1,0,,0,0.167224080267558
+1881,Rhae Targaryen,Princess,0,Valyrian,201.0,,,,,House Targaryen,,0,0,0,0,0,,,,,0,1,100.0,0,0.0802675585284281
+1882,Ryman Frey,Ser,1,,246.0,300.0,,,,House Frey,,0,1,1,1,1,,,,,0,1,54.0,0,0.217391304347826
+1883,Quaithe,,0,Asshai'i,,,,,,,,0,1,1,1,1,,,,,0,0,,0,0.127090301003344
+1884,Rolly Duckfield,Ser,1,,,,,,,House Targaryen,,0,0,0,0,1,,,,,0,1,,0,0.0869565217391304
+1885,Togg Joth,,1,Ibbenese,,,,,,Brave Companions,,0,0,1,1,0,,,,,0,0,,0,0.0167224080267558
+1886,Taena of Myr,,0,Myrish,276.0,,,,,House Merryweather,Orton Merryweather,0,0,1,1,1,,,,1.0,1,0,29.0,0,0.113712374581939
+1887,Pyg,,0,,,300.0,,,,Brave Companions,,0,0,1,1,0,,,,,0,0,,0,0.0468227424749163
+1888,Stonesnake,,1,,250.0,,,,,Night's Watch,,0,1,1,1,1,,,,,0,0,55.0,0,0.0568561872909698
+1889,Tycho Nestoris,,1,Braavosi,,,,,,Iron Bank of Braavos,,0,0,0,0,1,,,,,0,0,,0,0.0869565217391304
+1890,Tanselle,,0,Dornishmen,,,,,,,,0,0,0,0,0,,,,,0,0,,0,0.020066889632107
+1891,Rhaelle Targaryen,Princess,0,,229.0,,,,,House Targaryen,Ormund Baratheon,0,0,0,1,1,,,,1.0,1,1,76.0,0,0.137123745819397
+1892,Tom of Sevenstreams,,1,,240.0,,,,,Brotherhood without banners,,0,0,1,1,0,,,,,0,0,65.0,0,0.153846153846153
+1893,Shyra Errol,Haystack Hall,0,,,,,,,House Errol,,0,1,0,0,0,,,,,0,1,,0,0.0133779264214046
+1894,Steelskin,,1,Ghiscari,,,,,,House of Loraq,,0,0,0,0,1,,,,,0,0,,0,0.0167224080267558
+1895,Val,,0,Free folk,,,,,,,,0,0,1,1,1,,,,,0,0,,0,0.140468227424749
+1896,Satin,,1,,280.0,,,,,Night's Watch,,0,1,1,1,1,,,,,0,0,25.0,0,0.103678929765886
+1897,Xaro Xhoan Daxos,,1,Qartheen,,,,,,Thirteen,,0,1,1,1,1,,,,,0,0,,0,0.244147157190635
+1898,Maelor Targaryen,Prince,1,,127.0,130.0,,,,House Targaryen,,0,0,0,0,0,,,,,0,1,3.0,0,0.180602006688963
+1899,Arianne Martell,Princess,0,Dornishmen,276.0,,,,,House Martell,,1,1,1,1,1,,,,,0,1,29.0,0,0.57190635451505
+1900,Damon Dance-for-Me,,1,,,,,,,House Bolton,,0,0,0,0,1,,,,,0,0,,0,0.0334448160535117
+1901,Alysanne Targaryen,,0,,,,Alyssa Velaryon,Aenys I Targaryen,,,,0,0,0,0,0,1.0,0.0,,,0,0,,0,0.277591973244147
+1902,Baela Targaryen,Lady,0,Valyrian,116.0,,,,,House Targaryen,Alyn Velaryon,0,0,0,0,0,,,,0.0,1,1,100.0,0,0.127090301003344
+1903,Brandon Stark,,1,Northmen,262.0,282.0,,,,House Stark,,1,1,1,0,1,,,,,0,0,20.0,0,0.347826086956521
+1904,Dunstan Drumm,Old Wyk,1,Ironborn,212.0,,,,,House Drumm,,0,1,1,1,1,,,,,0,1,93.0,0,0.0769230769230769
+1905,Daemon Sand,Ser,1,Dornish,,,,,,House Allyrion,,0,0,1,1,1,,,,,0,1,,0,0.0735785953177257
+1906,Jafer Flowers,,1,,,298.0,,,,Night's Watch,,1,0,0,0,0,,,,,0,0,,0,0.0434782608695652
+1907,Lysono Maar,,1,Lyseni,,,,,,Golden Company,,0,0,0,0,1,,,,,0,0,,0,0.020066889632107
+1908,Mycah,,1,Westeros,285.0,298.0,,,,,,1,1,1,0,0,,,,,0,0,13.0,0,0.103678929765886
+1909,Joyeuse Erenford,the Crossing,1,,282.0,,,,,House Erenford,Walder Frey,1,1,1,1,1,,,,1.0,1,1,23.0,0,0.0434782608695652
+1910,Rossart,Hand of the King,1,,,283.0,,,,Alchemists' Guild,,0,1,1,1,0,,,,,0,1,,0,0.367892976588628
+1911,Tyene Sand,,0,Dornish,276.0,,,,,House Martell,,0,0,1,1,1,,,,,0,0,29.0,1,0.137123745819397
+1912,Waymar Royce,Ser,1,Valemen,278.0,297.0,,,,House Royce,,1,1,1,1,0,,,,,0,1,19.0,1,0.123745819397993
+1913,Stiv,,0,Wildlings,,298.0,,,,Night's Watch,,1,0,0,0,0,,,,,0,0,,0,0.0334448160535117
+1914,Daemon II Blackfyre,Andals,1,,188.0,211.0,,,,House Blackfyre,,0,0,0,0,0,,,,,0,1,23.0,5,0.227424749163879
+1915,Chataya,,0,Summer Isles,,,,,,Chataya's brothel,,1,1,1,0,0,,,,,0,0,,0,0.0735785953177257
+1916,Hugh Hammer,Ser,1,,,130.0,,,,Blacks,,0,0,0,0,0,,,,,0,1,,0,0.0769230769230769
+1917,Tygett Lannister,Ser,1,,250.0,,,,,House Lannister,Darlessa Marbrand,1,1,1,1,1,,,,1.0,1,1,55.0,0,0.110367892976588
+1918,Sarella Sand,,0,Dornishmen,280.0,,,,,House Martell,,0,0,1,1,1,,,,,0,0,25.0,1,0.103678929765886
+1919,Rhaegar Targaryen,Prince of Dragonstone,1,Valyrian,259.0,283.0,,,,House Targaryen,Elia Martell,1,1,1,1,1,,,,0.0,1,1,24.0,11,0.799331103678929
+1920,Drogo,Khal,0,Dothraki,267.0,298299.0,,,,,Daenerys Targaryen,1,1,1,0,1,,,,1.0,1,0,32.0,5,0.558528428093645
+1921,Dunsen,,1,,,,,,,House Clegane,,0,1,1,1,1,,,,,0,0,,0,0.040133779264214
+1922,Barra,,1,,298.0,299.0,,,,House Baratheon,,1,1,0,0,1,,,,,0,0,1.0,1,0.107023411371237
+1923,Bethany Bolton,the Dreadfort,1,Northmen,,,,,,House Bolton,Roose Bolton,0,0,0,1,1,,,,1.0,1,1,,0,0.0434782608695652
+1924,Desmond Grell,Ser,0,,237.0,,,,,House Grell,,1,1,1,1,0,,,,,0,1,68.0,0,0.0769230769230769
+1925,Devan Seaworth,,1,,287.0,,,,,House Seaworth,,0,1,1,1,1,,,,,0,0,18.0,0,0.0936454849498327
+1926,Gendry,Ser,1,,284.0,,,,,brotherhood without banners,,1,1,1,1,0,,,,,0,1,21.0,2,0.438127090301003
+1927,Gran Goodbrother,,1,Ironborn,,,,,,House Goodbrother,,0,0,0,1,0,,,,,0,0,,0,0.0267558528428093
+1928,Loras Tyrell,Ser,1,The Reach,282.0,,,,,House Tyrell,,1,1,1,1,1,,,,,0,1,23.0,2,0.665551839464882
+1929,Ricasso,Sunspear,0,,,,,,,House Martell,,0,0,0,1,1,,,,,0,1,,0,0.0702341137123745
+1930,Stalwart Shield,,0,,,300.0,,,,Unsullied,,0,0,0,0,1,,,,,0,0,,0,0.0434782608695652
+1931,Yohn Royce,Runestone,1,Valemen,,,,,,House Royce,,1,1,1,1,1,,,,,0,1,,2,0.170568561872909
+1932,Yandry,,1,,,,,,,House Targaryen,Ysilla,0,0,0,0,1,,,,1.0,1,0,,0,0.0501672240802675
+1933,Tarle,,1,Ironborn,,,,,,Drowned men,,0,0,0,1,0,,,,,0,0,,0,0.0267558528428093
+1934,Temmo,Khal,1,Dothraki,,,,,,,,0,0,1,0,0,,,,,0,0,,0,0.020066889632107
+1935,Rohanne Webber,Coldmoat,0,,185.0,,,,,House Webber,Simon Staunton,0,0,0,0,0,,,,1.0,1,1,100.0,0,0.170568561872909
+1936,Gormond Goodbrother,,1,Ironborn,282.0,,,,,House Goodbrother,,0,0,0,1,0,,,,,0,0,23.0,0,0.040133779264214
+1937,Walder Rivers,Ser,1,Rivermen,,,,,,House Frey,Charlton,1,1,1,1,1,,,,1.0,1,1,,0,0.0802675585284281
+1938,Symon Silver Tongue,,1,,,299.0,,,,,,0,1,1,0,1,,,,,0,0,,0,0.0468227424749163
+1939,Moqorro,Slave of R'hllor,1,,,,,,,R'hllor,,0,0,0,0,1,,,,,0,1,,0,0.123745819397993
+1940,Meg,,0,,,,,,,Brotherhood Without Banners,,0,0,0,1,0,,,,,0,0,,0,0.0100334448160535
+1941,Laena Velaryon,,0,Valyrian,93.0,120.0,,,,House Velaryon,Daemon Targaryen,0,0,0,0,0,,,,0.0,1,0,27.0,0,0.140468227424749
+1942,Luwin,,1,Westeros,,299.0,,,,House Stark,,1,1,1,1,1,,,,,0,0,,0,0.351170568561872
+1943,Reek,,1,,,299.0,,,,House Bolton,,0,1,0,1,1,,,,,0,0,,0,0.0969899665551839
+1944,Symeon Star-Eyes,,1,,,,,,,,,1,1,1,1,1,,,,,0,0,,0,0.0301003344481605
+1945,Coldhands,,1,,,,,,,Three-eyed crow,,0,0,1,1,1,,,,,0,0,,0,0.130434782608695
+1946,Tytos Lannister,Casterly Rock,1,,220.0,267.0,,,,House Lannister,Jeyne Marbrand,0,0,1,1,1,,,,1.0,1,1,47.0,4,0.210702341137123
